@@ -16,6 +16,11 @@ customizable OAuth2\-authentication for your Django projects.
 
 Release Notes
 =============
+1.4.0
+-----
+* Add support for Django 2.1
+* Drop support for Django < 2.0
+
 1.3.5
 -----
 * Add support for Django 2.0 and Python 3.7
